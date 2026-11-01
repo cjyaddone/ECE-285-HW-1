@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+
+# Local datasets and coursework documents
+dataset/
+report/
+*.pdf
+
+# Training artifacts
+runs/
+outputs/
+generated/

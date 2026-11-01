@@ -1,0 +1,6 @@
+torch>=2.6
+torchvision>=0.21
+tensorboard>=2.18
+pillow>=11.0
+pytorch-ignite>=0.5.2
+scipy>=1.14
